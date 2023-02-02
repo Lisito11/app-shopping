@@ -1,0 +1,10 @@
+
+
+.box-shadow {
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.text-link {
+    color: inherit;
+    text-decoration: inherit;
+}
